@@ -2,7 +2,7 @@
   <img align="center" src="https://github.com/Ghostbaby/Ghostbaby/raw/master/1_rQuaLXlDy1-gqEPKBshcwA.gif"/>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ghostbaby)](https://github.com/Ghostbaby/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=smallnest&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hello, I'm Herman 👋
 
